@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '1.4.2.post0'
+version = '1.4.2.post1.dev0'
 readme = open("README.rst").read().replace(':class:', '').replace(':mod:', '')
 changes = open("CHANGES.rst").read()
 
